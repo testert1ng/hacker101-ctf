@@ -8,7 +8,9 @@
 
 | Difficulty (Points) |	Name                                       | Skills |
 | ------------------- | ------------------------------------------ | ------ |
-| Trivial (1 / flag)  | [A little something to get you started][2] | Web    | 
+| Trivial (1 / flag)  | [A little something to get you started][2] | Web    |
+| Easy (2 / flag)     | [Micro-CMS v1][3]                          | Web    |
 
 [1]: https://ctf.hacker101.com/ctf
 [2]: ./a_little_something_to_get_you_started
+[3]: ./micro-cms_v1
