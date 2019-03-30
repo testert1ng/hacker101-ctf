@@ -23,9 +23,3 @@ There is an background image here but not show on the page.
 http://127.0.0.1:5001/xxxxxxxxxx/background.png
 
 ![](./imgs/flag.png)
-
-Here we get the FLAG
-
-```
-^FLAG^5081997d798822b573900081466d74b234b2f77f5a881fa23bc977c36fdd3bba$FLAG$
-```
