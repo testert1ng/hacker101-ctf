@@ -10,7 +10,7 @@
 
 ## 0x02 Edit Page 1
 
-```javascript
+```html
 <script>alert`xss`</script>
 ```
 
