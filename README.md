@@ -17,4 +17,4 @@
 [2]: ./a_little_something_to_get_you_started
 [3]: ./micro-cms_v1
 [4]: ./tempimage
-[3]: ./micro-cms_v2
+[5]: ./micro-cms_v2
