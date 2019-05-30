@@ -11,6 +11,7 @@
 | Trivial (1 / flag)  | [A little something to get you started][2] | Web    | 1 / 1      |
 | Easy (2 / flag)     | [Micro-CMS v1][3]                          | Web    | 4 / 4      |
 | Moderate (3 / flag) | [Micro-CMS v2][5]                          | Web    | 3 / 3      |
+| Easy (4 / flag)     | [Postbook][6]                              | Web    | 7 / 7      |
 | Moderate (5 / flag) | [TempImage][4]                             | Web    | 2 / 2      |
 
 [1]: https://ctf.hacker101.com/ctf
@@ -18,3 +19,4 @@
 [3]: ./micro-cms_v1
 [4]: ./tempimage
 [5]: ./micro-cms_v2
+[6]: ./postbook
