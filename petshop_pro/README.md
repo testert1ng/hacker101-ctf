@@ -11,7 +11,7 @@
 - Tools may help you find the entrypoint
 - Tools are also great for finding credentials
 
-## [Flag2](./flag2) -- Not Found
+## [Flag2](./flag2) -- Found
 
 - Always test every input
 - Bugs don't always appear in a place where the data is entered
