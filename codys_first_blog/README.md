@@ -12,4 +12,9 @@
 - Unused code can often lead to information you wouldn't otherwise get
 - Simple guessing might help you out
 
-## [Flag2](./flag2) -- Not Found
+## [Flag2](./flag2) -- Found
+
+- Read the first blog post carefully
+- We talk about this in the Hacker101 File Inclusion Bugs video
+- Where can you access your own stored data?
+- Include doesn't just work for filenames

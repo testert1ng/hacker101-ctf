@@ -18,6 +18,6 @@ As the blog is PHP, try inject with PHP.
 
 ![](./imgs/comment.jpg)
 
-## 0x03 FLAG
+## 0x02 FLAG
 
 ![](./imgs/flag.jpg)
