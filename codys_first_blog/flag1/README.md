@@ -2,7 +2,7 @@
 
 ## 0x00 Home
 
-![](..flag0/imgs/home.jpg)
+![](../flag0/imgs/home.jpg)
 
 ## 0x01 Check the Source
 
