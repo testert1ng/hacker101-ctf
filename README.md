@@ -11,6 +11,7 @@
 | Trivial (1 / flag)  | [A little something to get you started][2] | Web    | 1 / 1      |
 | Easy (2 / flag)     | [Micro-CMS v1][3]                          | Web    | 4 / 4      |
 | Moderate (3 / flag) | [Micro-CMS v2][5]                          | Web    | 3 / 3      |
+| Moderate (5 / flag) | [Cody's First Blog][8]                     | Web    | 1 / 3      |
 | Easy (4 / flag)     | [Postbook][6]                              | Web    | 7 / 7      |
 | Easy (3 / flag)     | [Petshop Pro][7]                           | Web    | 3 / 3      |
 | Moderate (5 / flag) | [TempImage][4]                             | Web    | 2 / 2      |
@@ -22,3 +23,4 @@
 [5]: ./micro-cms_v2
 [6]: ./postbook
 [7]: ./petshop_pro
+[8]: ./codys_first_blog
