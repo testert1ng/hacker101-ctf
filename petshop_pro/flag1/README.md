@@ -18,7 +18,7 @@ http://127.0.0.1/xxxxxxxxxx/login
 
 ## 0x03 Try Login
 
-Try with weak password, admin + admin. Shows **Invalid Password** error.
+Try with weak password, admin + admin. Shows **Invalid username** error.
 
 This can help to brute force admin username.
 
