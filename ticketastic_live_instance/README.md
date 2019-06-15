@@ -8,4 +8,8 @@
 - Humans might read these tickets and interact with them
 - Links in tickets could be interesting
 
-## [Flag1](./flag1) -- Not Found
+## [Flag1](./flag1) -- Found
+
+- How do others log into this instance?
+- The login form reveals more than it should
+- So does the ticket endpoint
