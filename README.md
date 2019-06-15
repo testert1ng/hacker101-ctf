@@ -13,6 +13,7 @@
 | Moderate (3 / flag) | [Micro-CMS v2][5]                          | Web    | 3 / 3      |
 | Moderate (5 / flag) | [Cody's First Blog][8]                     | Web    | 3 / 3      |
 | Easy (4 / flag)     | [Postbook][6]                              | Web    | 7 / 7      |
+| Moderate (5 / flag) | [Ticketastic: Live Instance][9]            | Web    | 1 / 2      |
 | Easy (3 / flag)     | [Petshop Pro][7]                           | Web    | 3 / 3      |
 | Moderate (5 / flag) | [TempImage][4]                             | Web    | 2 / 2      |
 
@@ -24,3 +25,4 @@
 [6]: ./postbook
 [7]: ./petshop_pro
 [8]: ./codys_first_blog
+[9]: ./ticketastic_live_instance
