@@ -11,7 +11,7 @@
 | Trivial (1 / flag)  | [A little something to get you started][2] | Web    | 1 / 1      |
 | Easy (2 / flag)     | [Micro-CMS v1][3]                          | Web    | 4 / 4      |
 | Moderate (3 / flag) | [Micro-CMS v2][5]                          | Web    | 3 / 3      |
-| Moderate (6 / flag) | [Photo Gallery][10]                        | Web    | 1 / 3      |
+| Moderate (6 / flag) | [Photo Gallery][10]                        | Web    | 2 / 3      |
 | Moderate (5 / flag) | [Cody's First Blog][8]                     | Web    | 3 / 3      |
 | Easy (4 / flag)     | [Postbook][6]                              | Web    | 7 / 7      |
 | Moderate (5 / flag) | [Ticketastic: Live Instance][9]            | Web    | 2 / 2      |

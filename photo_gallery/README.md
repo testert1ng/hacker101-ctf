@@ -1,6 +1,6 @@
 # Photo Gallery
 
-## [Flag0](./flag0) -- Not Found
+## [Flag0](./flag0) -- Found
 
 - Consider how you might build this system yourself. What would the query for fetch look like?
 - Take a few minutes to consider the state of the union
