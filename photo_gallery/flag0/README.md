@@ -2,7 +2,7 @@
 
 ## 0x00 Check Image Source
 
-Based on [FLAG1][1], when fetch a image id, it will return a image from the **files** directory.
+Based on [FLAG1][1], when fetching an image id, it will return an image from the **files** directory.
 
 http://127.0.0.1/xxxxxxxxxx/fetch?id=1
 
