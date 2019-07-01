@@ -22,7 +22,7 @@
 | Moderate (5 / flag) | [TempImage][4]                                    | Web         | 2 / 2      |
 | Easy (2 / flag)     | [H1 Thermostat][11]                               | Android     | 2 / 2      |
 | Expert (13 / flag)  | [Model E1337 v2 - Hardened Rolling Code Lock][14] | Math        | 0 / 1      |
-| Moderate (3 / flag) | [Intentional Exercise][15]                        | Android     | 0 / 1      |
+| Moderate (3 / flag) | [Intentional Exercise][15]                        | Android     | 1 / 1      |
 | Moderate (4 / flag) | [Hello World!][16]                                | Native      | 0 / 1      |
 | Expert (9 / flag)   | [Rend Asunder][17]                                | Native      | 0 / 3      |
 
