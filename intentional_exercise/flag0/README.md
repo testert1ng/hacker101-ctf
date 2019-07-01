@@ -81,7 +81,7 @@ and
 ```xml
 <data 
 	android:scheme="http"
-    android:host="level13.hacker101.com" 
+	android:host="level13.hacker101.com" 
 />
 ```
 
@@ -100,8 +100,6 @@ So we need to encrypt **/flagBearer** with secret key **s00p3rs3cr3tk3y** for th
 
 Try use this online [tool][5].
 
-![](./imgs/encrypt.jpg)
-
 ```
 SHA-256(s00p3rs3cr3tk3y/flagBearer) = 8743a18df6861ced0b7d472b34278dc29abba81b3fa4cf836013426d6256bd5e
 ```
@@ -118,4 +116,4 @@ http://127.0.0.1/xxxxxxxxxx/appRoot/flagBearer?&hash=8743a18df6861ced0b7d472b342
 [2]: https://github.com/java-decompiler/jd-gui
 [3]: ./MainActivity.java
 [4]: https://www.cmd5.com/hash.aspx?s=s00p3rs3cr3tk3y
-[4]: https://www.cmd5.com/hash.aspx?s=s00p3rs3cr3tk3y/flagBearer
+[5]: https://www.cmd5.com/hash.aspx?s=s00p3rs3cr3tk3y/flagBearer
