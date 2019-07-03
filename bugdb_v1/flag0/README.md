@@ -21,7 +21,7 @@ So just make a query to loop through all the details of the data set.
         username,
         bugs {
           pageInfo {
-            startCursor
+            startCursor,
             endCursor
           },
           edges {
