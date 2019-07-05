@@ -13,24 +13,24 @@ There is also a very clear structure of data at very right side for reference.
 So just make a query to loop through all the details of the data set.
 
 ```graphql
-{
+query{
   user {
     edges {
       node {
-        id,
-        username,
+        id
+        username
         bugs {
           pageInfo {
-            startCursor,
+            startCursor
             endCursor
-          },
+          }
           edges {
-            cursor,
+            cursor
             node {
-              id,
-              reporterId,
-              text,
-              private,
+              id
+              reporterId
+              text
+              private
               reporter {
                 id
               }
