@@ -18,7 +18,7 @@
 | Moderate (0 / flag) | [Ticketastic: Demo Instance][9]                   | Web          | 0 / 0      |
 | Moderate (5 / flag) | [Ticketastic: Live Instance][9]                   | Web          | 2 / 2      |
 | Easy (3 / flag)     | [Petshop Pro][7]                                  | Web          | 3 / 3      |
-| Hard (7 / flag)     | [Model E1337 - Rolling Code Lock][13]             | Web, Math    | 0 / 2      |
+| Hard (7 / flag)     | [Model E1337 - Rolling Code Lock][13]             | Web, Math    | 1 / 2      |
 | Moderate (5 / flag) | [TempImage][4]                                    | Web          | 2 / 2      |
 | Easy (2 / flag)     | [H1 Thermostat][11]                               | Android      | 2 / 2      |
 | Expert (13 / flag)  | [Model E1337 v2 - Hardened Rolling Code Lock][14] | Math         | 0 / 1      |
