@@ -1,4 +1,4 @@
-# Encrypted Pastebin - FLAG0
+# Model E1337 - Rolling Code Lock - FLAG0
 
 ## 0x00 Home
 
