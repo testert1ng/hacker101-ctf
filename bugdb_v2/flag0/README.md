@@ -2,7 +2,7 @@
 
 ## 0x00 Overview
 
-Pretty much as [BugDB v1][1]. There is only a tiny difference on mutate the data.
+Pretty much same as [BugDB v1][1]. There is only a tiny difference on mutate the data.
 
 ## 0x01 Take a Tour
 

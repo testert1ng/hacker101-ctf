@@ -27,6 +27,7 @@
 | Expert (9 / flag)   | [Rend Asunder][17]                                | Native       | 0 / 3      |
 | Easy (2 / flag)     | [BugDB v1][18]                                    | Web, GraphQL | 1 / 1      |
 | Easy (4 / flag)     | [BugDB v2][19]                                    | Web, GraphQL | 1 / 1      |
+| Moderate (6 / flag) | [BugDB v3][20]                                    | Web, GraphQL | 1 / 1      |
 
 [1]: https://ctf.hacker101.com/ctf
 [2]: ./a_little_something_to_get_you_started
@@ -47,3 +48,4 @@
 [17]: ./rend_asunder
 [18]: ./bugdb_v1
 [19]: ./bugdb_v2
+[20]: ./bugdb_v3
