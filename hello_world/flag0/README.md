@@ -66,7 +66,7 @@ So we need add up the padding to it goto print the **FLAGS** at 0406ee
 
 And here we get the flag.
 
-![](./flag.jpg)
+![](./imgs/flag.jpg)
 
 
 [1]: http://127.0.0.1/xxxxxxxxxx/?stdin=world

