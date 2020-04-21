@@ -24,7 +24,7 @@
 | Expert (13 / flag)  | [Model E1337 v2 - Hardened Rolling Code Lock][14] | Math         | 0 / 1      |
 | Moderate (3 / flag) | [Intentional Exercise][15]                        | Android      | 1 / 1      |
 | Moderate (4 / flag) | [Hello World!][16]                                | Native       | 1 / 1      |
-| Expert (9 / flag)   | [Rend Asunder][17]                                | Native       | 0 / 3      |
+| Expert (9 / flag)   | [Rend Asunder][17]                                | Native       | 1 / 3      |
 | Easy (2 / flag)     | [BugDB v1][18]                                    | Web, GraphQL | 1 / 1      |
 | Easy (4 / flag)     | [BugDB v2][19]                                    | Web, GraphQL | 1 / 1      |
 | Moderate (6 / flag) | [BugDB v3][20]                                    | Web, GraphQL | 1 / 1      |
