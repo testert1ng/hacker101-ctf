@@ -74,3 +74,10 @@ Execute and get the FLAG in the [main.py][2]][@BigGuy573](flag2??)]
 
 [1]: https://www.urlencoder.org/
 [2]: ./main.py
+
+Execute and get the FLAG in the [main.py][2]
+
+![✓](./imgs/flag.jpg][@BigGuy573)
+
+[1]: https://www.urlencoder.org/
+[2]: ./main.py
