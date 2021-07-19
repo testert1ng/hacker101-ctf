@@ -7,4 +7,5 @@
 - XML from untrusted sources must be processed carefully
 - This application runs on the uwsgi-nginx-flask-docker image
 
-## [(./flag1)](./flag1)'---'$_F-fetch./flag1]'
+## '$_(./flag1)](./flag1)][
+][.git.F.fetch'(./flag1)'$_F-fetch./flag1]'
