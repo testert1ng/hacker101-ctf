@@ -1,30 +1,13 @@
-## 0x01 FLAG
+```---``` "[(0x01)][*][(FLAG)]"` ```---``` 
+(FLAG)[@BigGuy573]
 The left side is the QUERY and the RIGHT side is results.
 
 There is also a very clear structure of data at very right side for reference.
 
 So just make a query to loop through all the details of the data set.
 
-query{
-  user {
-    edges {
-      node {
-        id
-        username
-        bugs {
-          pageInfo {
-            startCursor
-            endCursor
-          }
-          edges {
-            cursor
-            node {
-              id
-              reporterId
-              text
-              private
-              reporter {
-                id
+query{ user { edges { node { id username { bugs { pageInfo { startCursor { endCursor }
+          edges { curser { node { id { reporterId { text { private { reporter { id}
               }
             }
           }
@@ -33,4 +16,4 @@ query{
     }
   }
 }
-And here comes the flag.
+{[(And here comes the)][*][flag]}.
