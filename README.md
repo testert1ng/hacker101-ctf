@@ -6,30 +6,38 @@
 
 ## 0x01 CTF
 
-| Difficulty (Points) |	Name                                              | Skills       | Completion |
-| ------------------- | ------------------------------------------------- | ------------ | ---------- |
-| Trivial (1 / flag)  | [A little something to get you started][2]        | Web          | 1 / 1      |
-| Easy (2 / flag)     | [Micro-CMS v1][3]                                 | Web          | 4 / 4      |
-| Moderate (3 / flag) | [Micro-CMS v2][5]                                 | Web          | 3 / 3      |
-| Hard (9 / flag)     | [Encrypted Pastebin][12]                          | Web, Crypto  | 1 / 4      |
-| Moderate (6 / flag) | [Photo Gallery][10]                               | Web          | 3 / 3      |
-| Moderate (5 / flag) | [Cody's First Blog][8]                            | Web          | 3 / 3      |
-| Easy (4 / flag)     | [Postbook][6]                                     | Web          | 7 / 7      |
-| Moderate (0 / flag) | [Ticketastic: Demo Instance][9]                   | Web          | 0 / 0      |
-| Moderate (5 / flag) | [Ticketastic: Live Instance][9]                   | Web          | 2 / 2      |
-| Easy (3 / flag)     | [Petshop Pro][7]                                  | Web          | 3 / 3      |
-| Hard (7 / flag)     | [Model E1337 - Rolling Code Lock][13]             | Web, Math    | 1 / 2      |
-| Moderate (5 / flag) | [TempImage][4]                                    | Web          | 2 / 2      |
-| Easy (2 / flag)     | [H1 Thermostat][11]                               | Android      | 2 / 2      |
-| Expert (13 / flag)  | [Model E1337 v2 - Hardened Rolling Code Lock][14] | Math         | 0 / 1      |
-| Moderate (3 / flag) | [Intentional Exercise][15]                        | Android      | 1 / 1      |
-| Moderate (4 / flag) | [Hello World!][16]                                | Native       | 1 / 1      |
-| Expert (9 / flag)   | [Rend Asunder][17]                                | Native       | 1 / 3      |
-| Easy (2 / flag)     | [BugDB v1][18]                                    | Web, GraphQL | 1 / 1      |
-| Easy (4 / flag)     | [BugDB v2][19]                                    | Web, GraphQL | 1 / 1      |
-| Moderate (6 / flag) | [BugDB v3][20]                                    | Web, GraphQL | 1 / 1      |
+| Difficulty |	Name                                              | Skills       | Completion |
+| ---------- | ------------------------------------------------- | ------------ | ---------- |
+| Trivial    | [A little something to get you started][2]        | Web          | 1 / 1      |
+| Easy       | [Micro-CMS v1][3]                                 | Web          | 4 / 4      |
+| Moderate   | [Micro-CMS v2][5]                                 | Web          | 3 / 3      |
+| Hard       | [Encrypted Pastebin][12]                          | Web, Crypto  | 1 / 4      |
+| Moderate   | [Photo Gallery][10]                               | Web          | 3 / 3      |
+| Moderate   | [Cody's First Blog][8]                            | Web          | 3 / 3      |
+| Easy       | [Postbook][6]                                     | Web          | 7 / 7      |
+| Moderate   | [Ticketastic: Demo Instance][9]                   | Web          | 0 / 0      |
+| Moderate   | [Ticketastic: Live Instance][9]                   | Web          | 2 / 2      |
+| Easy       | [Petshop Pro][7]                                  | Web          | 3 / 3      |
+| Hard       | [Model E1337 - Rolling Code Lock][13]             | Web, Math    | 1 / 2      |
+| Moderate   | [TempImage][4]                                    | Web          | 2 / 2      |
+| Easy       | [H1 Thermostat][11]                               | Android      | 2 / 2      |
+| Expert     | [Model E1337 v2 - Hardened Rolling Code Lock][14] | Math         | 0 / 1      |
+| Moderate   | [Intentional Exercise][15]                        | Android      | 1 / 1      |
+| Moderate   | [Hello World!][16]                                | Native       | 1 / 1      |
+| Expert     | [Rend Asunder][17]                                | Native       | 1 / 3      |
+| Easy       | [BugDB v1][18]                                    | Web, GraphQL | 1 / 1      |
+| Easy       | [BugDB v2][19]                                    | Web, GraphQL | 1 / 1      |
+| Moderate   | [BugDB v3][20]                                    | Web, GraphQL | 1 / 1      |
+| Moderate   | [Oauthbreaker][21]                                | Android      | 0 / 2      |
+| Moderate   | [Mobile Webdev][22]                               | Android      | 0 / 2      |
+| Moderate   | [XSS Playground by zseano][23]                    | Web          | 0 / 1      |
+| Moderate   | [OSU CTF][24]                                     | Web          | 0 / 1      |
+| Moderate   | [Grayhatcon CTF][25]                              | Web          | 0 / 4      |
+| Moderate   | [RTFM][26]                                        | Web          | 0 / 8      |
+| Moderate   | [Hackyholidays CTF][27]                           | Web          | 0 / 12     |
+| Moderate   | [Y2FuIHlvdSByZWNvbj8/][28]                        | Web, Recon   | 0 / 3      |
 
-[1]: https://ctf.hacker101.com/ctf
+[1]: https://ctf.hacker101.com/
 [2]: ./a_little_something_to_get_you_started
 [3]: ./micro-cms_v1
 [4]: ./tempimage
@@ -49,3 +57,11 @@
 [18]: ./bugdb_v1
 [19]: ./bugdb_v2
 [20]: ./bugdb_v3
+[21]: ./oauthbreaker
+[22]: ./mobile_webdev
+[23]: ./xss_playground_by_zseano
+[24]: ./osu_ctf
+[25]: ./grayhatcon_ctf
+[26]: ./rtfm
+[27]: ./hackyholidays_ctf
+[28]: ./Y2FuIHlvdSByZWNvbj8/
